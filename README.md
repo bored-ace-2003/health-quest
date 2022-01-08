@@ -1,4 +1,4 @@
-# health-quest
+# HealthQuest
 App from the team Coderz for the DotSlash hackathon.
 
 Idea:
